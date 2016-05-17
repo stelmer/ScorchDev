@@ -18,7 +18,7 @@
                       "zzGlobal-SubscriptionName":  {
                                                       "isEncrypted":  false,
                                                       "Description":  "Microsoft Azure - Subscriptions - Subscription Name",
-                                                      "Value":  "Visual Studio Enterprise with MSDN "
+                                                      "Value":  "Visual Studio Enterprise with MSDN"
                                                   },
                       "zzGlobal-AutomationAccountName":  {
                                                            "isEncrypted":  false,
