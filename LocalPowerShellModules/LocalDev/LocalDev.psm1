@@ -305,7 +305,7 @@ Function Get-AutomationPSCredential
         $Name
     )
     $ErrorActionPreference = 'Stop'
-    if([Environment]::OSVersion.Version -ge (new-object 'Version' 8,0))
+    if([Environment]::OSVersion.Version -ge (new-object 'Version' 6,3))
     {
         Try
         {
