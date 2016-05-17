@@ -4,11 +4,11 @@
                                                                        "isEncrypted":  false,
                                                                        "Description":  "The credential name for accessing runbook workers",
                                                                        "Value":  "sjesok-a@test.i.ameriprise.com"
-                                                                   },
+                                                cd\                   },
                       "zzGlobal-SubscriptionAccessCredentialName":  {
                                                                       "isEncrypted":  false,
                                                                       "Description":  "Name of the credential to be used for authenticating to the subscription",
-                                                                      "Value":  "stephen.jesok@ampf.com"
+                                                                      "Value":  "oms@stephenjesokampf.onmicrosoft.com"
                                                                   },
                       "zzGlobal-WorkspaceID":  {
                                                  "isEncrypted":  false,
