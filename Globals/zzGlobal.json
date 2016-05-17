@@ -3,32 +3,32 @@
                       "zzGlobal-RunbookWorkerAccessCredentialName":  {
                                                                        "isEncrypted":  false,
                                                                        "Description":  "The credential name for accessing runbook workers",
-                                                                       "Value":  "ryan"
+                                                                       "Value":  "sjesok-a@test.i.ameriprise.com"
                                                                    },
                       "zzGlobal-SubscriptionAccessCredentialName":  {
                                                                       "isEncrypted":  false,
                                                                       "Description":  "Name of the credential to be used for authenticating to the subscription",
-                                                                      "Value":  "scorchd@microsoft.com"
+                                                                      "Value":  "stephen.jesok@ampf.com"
                                                                   },
                       "zzGlobal-WorkspaceID":  {
                                                  "isEncrypted":  false,
                                                  "Description":  "the workspace ID of the Log Analytics account with the automation solution deployed to it",
-                                                 "Value":  "09249256-99e5-4c6e-9d7a-3b73e3a90281"
+                                                 "Value":  "86a0577a-ee92-4297-9fc3-47ddfb9db15f"
                                              },
                       "zzGlobal-SubscriptionName":  {
                                                       "isEncrypted":  false,
-                                                      "Description":  "",
-                                                      "Value":  "Microsoft Azure Internal Consumption"
+                                                      "Description":  "Microsoft Azure - Subscriptions - Subscription Name",
+                                                      "Value":  "Visual Studio Enterprise with MSDN "
                                                   },
                       "zzGlobal-AutomationAccountName":  {
                                                            "isEncrypted":  false,
                                                            "Description":  "name of the automation account",
-                                                           "Value":  "SCOrchDev-Staging"
+                                                           "Value":  "SCOrchDev-Test"
                                                        },
                       "zzGlobal-StorageAccountName":  {
                                                         "isEncrypted":  false,
                                                         "Description":  "Name of a storage account for storing PSModules during import",
-                                                        "Value":  "scodev"
+                                                        "Value":  "scodevtest"
                                                     },
                       "zzGlobal-HybridWorkerGroup":  {
                                                        "isEncrypted":  false,
